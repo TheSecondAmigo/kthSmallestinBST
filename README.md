@@ -1,2 +1,2 @@
 # kthSmallestinBST
-Question frm codefights
+Question from codefights
